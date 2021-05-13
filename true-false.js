@@ -11,7 +11,7 @@
 // true values
 //'0'
 // [] - empty array
-// {} - empty object\
+// {} - empty object
 //'false'
 
 let name = 0;
